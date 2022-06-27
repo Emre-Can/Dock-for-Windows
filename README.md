@@ -2,7 +2,7 @@
  MacOS Dock'ı Windows sistemlere getirmek için C# ile yazdığım uygulama. Geliştirme aşamasında.
 
 ## Ekren Fotoğrafları
-1. https://github.com/Emre-Can/Dock-for-Windows/blob/main/photo1.png
-2. https://github.com/Emre-Can/Dock-for-Windows/blob/main/photo2.png
-3. https://github.com/Emre-Can/Dock-for-Windows/blob/main/photo3.png
-4. https://github.com/Emre-Can/Dock-for-Windows/blob/main/photo4.png
+1. ![alt text](https://github.com/Emre-Can/Dock-for-Windows/blob/main/photo1.png"Ekran Fotoğrafı 1")
+2. ![alt text](https://github.com/Emre-Can/Dock-for-Windows/blob/main/photo1.png"Ekran Fotoğrafı 2")
+3. ![alt text](https://github.com/Emre-Can/Dock-for-Windows/blob/main/photo1.png"Ekran Fotoğrafı 3")
+4. ![alt text](https://github.com/Emre-Can/Dock-for-Windows/blob/main/photo1.png"Ekran Fotoğrafı 4")
