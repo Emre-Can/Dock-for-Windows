@@ -1,0 +1,11 @@
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\bin\Debug\UygulamaBar.exe.config
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\bin\Debug\UygulamaBar.exe
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\bin\Debug\UygulamaBar.pdb
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\obj\Debug\UygulamaBar.csprojAssemblyReference.cache
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\obj\Debug\UygulamaBar.Form1.resources
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\obj\Debug\UygulamaBar.Properties.Resources.resources
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\obj\Debug\UygulamaBar.csproj.GenerateResource.cache
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\obj\Debug\UygulamaBar.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\obj\Debug\UygulamaBar.exe
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\obj\Debug\UygulamaBar.pdb
+C:\Users\Emre\Desktop\Yazılım\C# Proje\UygulamaBar\obj\Debug\UygulamaBar.Form2.resources
