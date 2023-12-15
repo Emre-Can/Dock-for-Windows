@@ -1,7 +1,7 @@
 # Dock-for-Windows
  MacOS Dock'ı Windows sistemlere getirmek için C# ile yazdığım uygulama. Geliştirme aşamasında.
 
-## Ekren Fotoğrafları
+## Ekran Fotoğrafları
 1. 
 ![alt text](https://github.com/Emre-Can/Dock-for-Windows/blob/main/photo1.png "Ekran Fotoğrafı 1")
 2. Kapatmak için ekran fotoğrafında görünen "kapat" butonuna basın. Bastığınızda standart windows görev çubuğu yeniden görünür hale gelecektir.
